@@ -26569,6 +26569,7 @@ GameObject:
   - component: {fileID: 1102841820}
   - component: {fileID: 1102841822}
   - component: {fileID: 1102841821}
+  - component: {fileID: 1102841823}
   m_Layer: 0
   m_Name: Point Light (178)
   m_TagString: Untagged
@@ -26679,6 +26680,21 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!114 &1102841823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1102841819}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88f4655307792b42bb2e4c6420c8314, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minIntensity: 0.5
+  maxIntensity: 1.2
+  timeBetweenIntensity: 0.1
 --- !u!1001 &1110339983
 PrefabInstance:
   m_ObjectHideFlags: 0
