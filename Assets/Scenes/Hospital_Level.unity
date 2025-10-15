@@ -3416,8 +3416,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 35
+  m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3454,7 +3454,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -472.61108, y: 0, z: -184.18605, w: -134.16501}
+  m_margin: {x: -588.65546, y: 0, z: -184.18605, w: -134.16501}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -3477,7 +3477,7 @@ RectTransform:
   m_GameObject: {fileID: 96734672}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.95, y: 1, z: 1}
+  m_LocalScale: {x: 0.95, y: 1.1375, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 370487604}
@@ -4665,7 +4665,7 @@ RectTransform:
   m_GameObject: {fileID: 128121394}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.6396846, y: 1.0209194, z: 1.0170941}
+  m_LocalScale: {x: 0.9356027, y: 1.786609, z: 1.0170941}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 370487604}
@@ -12101,7 +12101,7 @@ RectTransform:
   m_GameObject: {fileID: 393849782}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 14.147163, y: 7.5229654, z: 1.1237}
+  m_LocalScale: {x: 22.98914, y: 12.695004, z: 1.1237}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 370487604}
@@ -15128,7 +15128,7 @@ RectTransform:
   m_GameObject: {fileID: 507430428}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0099177, y: 1.0477897, z: 1.0099177}
+  m_LocalScale: {x: 1.6370136, y: 1.8598267, z: 1.0099177}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 370487604}
@@ -23769,7 +23769,7 @@ RectTransform:
   m_GameObject: {fileID: 826028726}
   m_LocalRotation: {x: -0, y: -0, z: -0.19209099, w: 0.9813772}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.1346, y: 1.3463384, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 370487604}
@@ -27383,8 +27383,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -27421,7 +27421,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -5.4958496, w: 0}
+  m_margin: {x: -137.31921, y: 0, z: -133.14453, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -29453,7 +29453,7 @@ RectTransform:
   m_GameObject: {fileID: 1089273441}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.1414, y: 1.284075, z: 1.1414}
+  m_LocalScale: {x: 1.683565, y: 2.0545201, z: 1.1414}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 370487604}
@@ -31149,7 +31149,7 @@ RectTransform:
   m_GameObject: {fileID: 1155388659}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.1326, y: 1.2600174, z: 1.1326}
+  m_LocalScale: {x: 1.6723547, y: 2.0433939, z: 1.1326}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 370487604}
@@ -42259,7 +42259,7 @@ RectTransform:
   m_GameObject: {fileID: 1579112287}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2053019, y: 1.1171207, z: 1.0707}
+  m_LocalScale: {x: 1.845807, y: 1.8991053, z: 1.0707}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 370487604}
@@ -49833,7 +49833,7 @@ RectTransform:
   m_GameObject: {fileID: 1813308383}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.1237, y: 1.1237, z: 1.1237}
+  m_LocalScale: {x: 1.7698276, y: 1.8821975, z: 1.1237}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 370487604}
@@ -51022,6 +51022,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 166485856}
     m_Modifications:
+    - target: {fileID: 118889293697104836, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 682156598704577993, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
@@ -51040,6 +51045,11 @@ PrefabInstance:
     - target: {fileID: 876594740568530505, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
       propertyPath: m_Shadows.m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3363332085355343014, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4273747029436065550, guid: d7893ed7f3d54c146b7537a073225cec,
@@ -51083,6 +51093,11 @@ PrefabInstance:
       value: 'Room (2x1 A) '
       objectReference: {fileID: 0}
     - target: {fileID: 6518597286751055156, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6623949675340052535, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -51135,6 +51150,11 @@ PrefabInstance:
     - target: {fileID: 6932480039033313411, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8423537504293744469, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
